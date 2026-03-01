@@ -14,5 +14,5 @@ Both dashboards are designed to provide insights into ETL pipeline performance a
 The intuitive dashboards streamline ETL operations monitoring, enabling quick identification of failed or delayed jobs and supporting robust process management. The inclusion of a Date Filtering feature enhances the user experience and provides operational insights for Data Engineering and Operational Teams.
 
 
-## To view the Dashboard Screenshot: 
-Select the Dashboard and click the Refresh Button at the top left of the screen.
+## Non Refresh of a Selected Dashboard Screenshot: 
+Click the Refresh Button at the top left of the screen.
